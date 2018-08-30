@@ -8,6 +8,11 @@
     Name: "Java Driver",
     Description : "Automate Java app...",
     URL: "http://git.java"
+  },
+  {
+    Name: "Web Srvices",
+    Description : "Web Services driver",
+    URL: "http://git.Web services"
   }
 
 }
