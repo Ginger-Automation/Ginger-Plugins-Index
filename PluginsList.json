@@ -1,2 +1,14 @@
-PACT
-Ginger-Java-Driver
+{
+  {
+    Name: "PACT Driver",
+    Description : "PACT Plugin create...",
+    URL: "http://git.pact"
+  },
+  {
+    Name: "Java Driver",
+    Description : "Automate Java app...",
+    URL: "http://git.java"
+  }
+
+}
+
