@@ -1,19 +1,19 @@
-{
+[
   {
-    Name: "PACT Driver",
-    Description : "PACT Plugin create...",
-    URL: "http://git.pact"
+    "Name": "PACT Driver",
+    "Description" : "PACT Plugin create...",
+    "URL": "http://git.pact"
   },
   {
-    Name: "Java Driver",
-    Description : "Automate Java app...",
-    URL: "http://git.java"
+    "Name" : "Java Driver",
+    "Description" : "Automate Java app...",
+    "URL" : "http://git.java"
   },
   {
-    Name: "Web Srvices",
-    Description : "Web Services driver",
-    URL: "http://git.Web services"
+    "Name" : "Web Srvices",
+    "Description" : "Web Services driver",
+    "URL" : "http://git.Web services"
   }
 
-}
+]
 
