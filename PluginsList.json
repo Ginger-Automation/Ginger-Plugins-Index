@@ -22,7 +22,7 @@
   {
     "Name" : "Shell",
     "Description" : "Execute Shell commands",
-    "URL" : ""
+    "URL" : "https://github.com/Ginger-Automation/Ginger-Shell-Plugin"
   },
   {
     "Name" : "Office",
