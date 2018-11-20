@@ -1,41 +1,41 @@
 [
   {
-    "Name": "PACT",
+    "Id": "PACT",
     "Description" : "Integration Testing of REST APIs and Service Virtualization",
     "URL": "https://github.com/Ginger-Automation/Ginger-PACT-Plugin"
   },
   {
-    "Name" : "Test NG",
+    "Id" : "Test NG",
     "Description" : "Execute Test NG scripts",
     "URL" : ""
   },
   {
-    "Name" : "Web Srvices",
+    "Id" : "Web Srvices",
     "Description" : "Web Services driver",
     "URL" : ""
   },
   {
-    "Name" : "Python",
+    "Id" : "Python",
     "Description" : "Execute Python code",
     "URL" : "https://github.com/Ginger-Automation/Ginger-Python-Plugin"
   },
   {
-    "Name" : "Shell",
+    "Id" : "Shell",
     "Description" : "Execute Shell commands",
     "URL" : "https://github.com/Ginger-Automation/Ginger-Shell-Plugin"
   },
   {
-    "Name" : "Office",
+    "Id" : "Office",
     "Description" : "Read/Write Office documents like excel",
     "URL" : ""
   },
   {
-    "Name" : "File",
+    "Id" : "File",
     "Description" : "Read/Write Files",
     "URL" : ""
   },
   {
-    "Name" : "Selenium WebDriver",
+    "Id" : "SeleniumDriver",
     "Description" : "Automate browser Chrome/FF/IE",
     "URL" : "https://github.com/Ginger-Automation/Ginger-Selenium-Plugin"
   }
