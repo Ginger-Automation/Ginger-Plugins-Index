@@ -7,7 +7,7 @@
   {
     "Id" : "Test NG",
     "Description" : "Execute Test NG scripts",
-    "URL" : ""
+    "URL" : "https://github.com/Ginger-Automation/Ginger-TestNG-Plugin"
   },
   {
     "Id" : "Web Srvices",
