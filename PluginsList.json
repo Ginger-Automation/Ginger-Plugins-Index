@@ -1,45 +1,50 @@
 [
   {
     "Id": "PACT",
-    "Description" : "Integration Testing of REST APIs and Service Virtualization",
+    "Description": "Integration Testing of REST APIs and Service Virtualization",
     "URL": "https://github.com/Ginger-Automation/Ginger-PACT-Plugin"
   },
   {
-    "Id" : "TestNG",
-    "Description" : "Execute Test NG scripts",
-    "URL" : "https://github.com/Ginger-Automation/Ginger-TestNG-Plugin"
+    "Id": "TestNG",
+    "Description": "Execute Test NG scripts",
+    "URL": "https://github.com/Ginger-Automation/Ginger-TestNG-Plugin"
   },
   {
-    "Id" : "Web Srvices",
-    "Description" : "Web Services driver",
-    "URL" : ""
+    "Id": "Web Services",
+    "Description": "Web Services driver",
+    "URL": ""
   },
   {
-    "Id" : "Python",
-    "Description" : "Execute Python code",
-    "URL" : "https://github.com/Ginger-Automation/Ginger-Python-Plugin"
+    "Id": "Python",
+    "Description": "Execute Python code",
+    "URL": "https://github.com/Ginger-Automation/Ginger-Python-Plugin"
   },
   {
-    "Id" : "Shell",
-    "Description" : "Execute Shell commands",
-    "URL" : "https://github.com/Ginger-Automation/Ginger-Shell-Plugin"
+    "Id": "Shell",
+    "Description": "Execute Shell commands",
+    "URL": "https://github.com/Ginger-Automation/Ginger-Shell-Plugin"
   },
   {
-    "Id" : "Office",
-    "Description" : "Read/Write Office documents like excel",
-    "URL" : ""
+    "Id": "Office",
+    "Description": "Read/Write Office documents like excel",
+    "URL": ""
   },
   {
-    "Id" : "File",
-    "Description" : "Read/Write Files",
-    "URL" : ""
+    "Id": "File",
+    "Description": "Read/Write Files",
+    "URL": ""
   },
   {
-    "Id" : "SeleniumDriver",
-    "Description" : "Automate browser Chrome/FF/IE",
-    "URL" : "https://github.com/Ginger-Automation/Ginger-Selenium-Plugin"
+    "Id": "SeleniumDriver",
+    "Description": "Automate browser Chrome/FF/IE",
+    "URL": "https://github.com/Ginger-Automation/Ginger-Selenium-Plugin"
+  },
+  {
+    "Id": "Groovy",
+    "Description": "Execute Groovy Script",
+    "URL": "https://github.com/Ginger-Automation/Ginger-Groovy-Plugin"
   }
-  
+
 
 ]
 
