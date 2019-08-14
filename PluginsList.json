@@ -12,7 +12,7 @@
   {
     "Id": "Web Services",
     "Description": "Web Services driver",
-    "URL": ""
+    "URL": "https://github.com/Ginger-Automation/GingerWebServicePlugin"
   },
   {
     "Id": "Python",
