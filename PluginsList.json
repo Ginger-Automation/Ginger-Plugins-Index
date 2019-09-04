@@ -44,12 +44,7 @@
     "Description": "Execute Groovy Script",
     "URL": "https://github.com/Ginger-Automation/Ginger-Groovy-Plugin"
   }
-  ,
-  {
-    "Id": "Ginger Rest Plugin",
-    "Description": "Execute Rest Actions",
-    "URL": "https://github.com/Ginger-Automation/GingerWebServicePlugin"
-  }
+  
 
 
 ]
