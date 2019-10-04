@@ -35,7 +35,7 @@
     "URL": ""
   },
   {
-    "Id": "SeleniumDriver",
+    "Id": "SeleniumPlugin",
     "Description": "Automate browser Chrome/FF/IE",
     "URL": "https://github.com/Ginger-Automation/Ginger-Selenium-Plugin"
   },
