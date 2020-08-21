@@ -43,8 +43,12 @@
     "Id": "Groovy",
     "Description": "Execute Groovy Script",
     "URL": "https://github.com/Ginger-Automation/Ginger-Groovy-Plugin"
+  },
+  {
+    "Id": "Ruby",
+    "Description": "Execute Ruby Script",
+    "URL": "https://github.com/Ginger-Automation/Ginger-Ruby-Plugin"
   }
-  
 
 
 ]
