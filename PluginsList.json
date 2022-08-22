@@ -10,11 +10,6 @@
     "URL": "https://github.com/Ginger-Automation/Ginger-TestNG-Plugin"
   },
   {
-    "Id": "Ginger WebService Plugin",
-    "Description": "Ginger WebService Plugin",
-    "URL": "https://github.com/Ginger-Automation/GingerWebServicePlugin"
-  },
-  {
     "Id": "Python",
     "Description": "Execute Python code",
     "URL": "https://github.com/Ginger-Automation/Ginger-Python-Plugin"
@@ -33,11 +28,6 @@
     "Id": "File",
     "Description": "Read/Write Files",
     "URL": ""
-  },
-  {
-    "Id": "SeleniumPlugin",
-    "Description": "Automate browser Chrome/FF/IE",
-    "URL": "https://github.com/Ginger-Automation/Ginger-Selenium-Plugin"
   },
   {
     "Id": "Groovy",
