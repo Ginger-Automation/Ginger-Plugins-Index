@@ -15,21 +15,6 @@
     "URL": "https://github.com/Ginger-Automation/Ginger-Python-Plugin"
   },
   {
-    "Id": "Shell",
-    "Description": "Execute Shell commands",
-    "URL": "https://github.com/Ginger-Automation/Ginger-Shell-Plugin"
-  },
-  {
-    "Id": "Office",
-    "Description": "Read/Write Office documents like excel",
-    "URL": ""
-  },
-  {
-    "Id": "File",
-    "Description": "Read/Write Files",
-    "URL": ""
-  },
-  {
     "Id": "Groovy",
     "Description": "Execute Groovy Script",
     "URL": "https://github.com/Ginger-Automation/Ginger-Groovy-Plugin"
